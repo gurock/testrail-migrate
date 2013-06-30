@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Printing &amp; Export" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]> 
+</details><testsuite name="Prerequisites" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]> 
+</details><testsuite name="Licensing &amp; Terms" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="4903" name="Add new review data point (including note)  ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1547]]></externalid>
+	<summary><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Fusce</strong> faucibus, mauris sit amet rutrum bibendum, dui odio tincidunt nibh, sed semper magna turpis eget magna.</p>]]></summary>
+	<steps><![CDATA[<p>Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.</p>
+<ol>
+    <li>Nam feugiat, eros at commodo dictum,</li>
+    <li>Felis libero varius orci, in vulputate</li>
+    <li>Massa turpis scelerisque diam.</li>
+    <li>Nunc et felis est. Phasellus laoreet nibh vel augue</li>
+    <li>Faucibus at varius est pretium.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>In vulputate libero <strong>in nulla feugiat tincidunt</strong>. Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></expectedresults>
+</testcase>
+
+<testcase internalid="4905" name="Add document footer with page numbers and author">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1548]]></externalid>
+	<summary><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>
+<ul>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ul>]]></summary>
+	<steps><![CDATA[<ol>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, <u>lorem quam quis</u> eget, tellus vestibulum rutrum, vel auctor vestibulum lectus ligula ut mauris.</p>]]></expectedresults>
+</testcase>
+</testsuite>
+<testcase internalid="4893" name="Test menu keyboard bindings and shortcuts ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1542]]></externalid>
+	<summary><![CDATA[<p>Suspendisse orci nisi, <strong>imperdiet</strong> a, sollicitudin sit amet, eleifend sed, metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac nunc.<br />
+<br />
+Quisque pellentesque mauris ut nulla convallis placerat. <em>Vivamus</em> vitae massa eget urna elementum porta.</p>]]></summary>
+	<steps><![CDATA[<ol>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum, vel auctor vestibulum lectus ligula ut mauris.</p>]]></expectedresults>
+</testcase>
+
+<testcase internalid="4895" name="Verify clipboard history with platform independent graphic file ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1543]]></externalid>
+	<summary><![CDATA[<p>Suspendisse orci nisi, imperdiet a, sollicitudin sit amet, eleifend sed, metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac nunc.</p>]]></summary>
+	<steps><![CDATA[<p>Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.<br />
+Massa sodales eget lorem dolor, <em>lorem quam quis eget</em>, tellus vestibulum rutrum.</p>]]></steps>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum, vel auctor vestibulum lectus ligula ut mauris.</p>]]></expectedresults>
+</testcase>
+
+<testcase internalid="4897" name="Change page color and verify print output ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1544]]></externalid>
+	<summary><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>]]></summary>
+	<steps><![CDATA[<ol>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>In vulputate libero <strong>in nulla feugiat tincidunt</strong>. Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></expectedresults>
+</testcase>
+</testsuite><testsuite name="Customization" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="4899" name="Verify CSV import with enclosed test data files ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1545]]></externalid>
+	<summary><![CDATA[<p>Suspendisse orci nisi, imperdiet a, sollicitudin sit amet, eleifend sed, metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac nunc.</p>]]></summary>
+	<steps><![CDATA[<p>In vulputate libero at <a href="http://www.example.com/">http://www.example.com/.</a></p>
+<ol>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>Massa sodales eget <em>lorem dolor</em>, lorem quam quis eget, tellus vestibulum rutrum, vel auctor vestibulum lectus ligula ut mauris.</p>]]></expectedresults>
+</testcase>
+
+<testcase internalid="4901" name="Format table with built-in style ">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1546]]></externalid>
+	<summary><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>]]></summary>
+	<steps><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>
+<ol>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ol>]]></steps>
+	<expectedresults><![CDATA[<p>In vulputate libero <strong>in nulla feugiat tincidunt</strong>.</p>]]></expectedresults>
+</testcase>
+</testsuite></testsuite>

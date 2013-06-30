@@ -1,0 +1,81 @@
+Number,Title,Type,Priority,Preconditions,Steps,Expected Result,Section
+1,Export enclosed test document to PDF and verify rendering,Regression,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+1,,,,,"2. Lorem quam quis eget, tellus vestibulum rutrum",,
+1,,,,,3. Vitae massa eget urna elementum porta.,,
+1,,,,,4. Tellus vestibulum rutrum,,
+2,Change document margins and test interoperability with PDF export,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+3,Change text alignment in an inline table,Usability,High,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+4,Verify line spacing on multi-page document,Automated,High,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+5,Test conditional formatting with basic value range,Performance,High,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+6,Format table with built-in style,Functionality,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+7,Apply sort routine to complex table with different currencies,Performance,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+8,Verify formula rendering with built-in print preview driver,Automated,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Prerequisites
+9,Verify CSV import with enclosed test data files,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+10,"Change document attributes (author, title, organization)",Automated,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+11,Print document history and attributes,Regression,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+12,Add new review data point (including note),Functionality,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+12,,,,,"2. Lorem quam quis eget, tellus vestibulum rutrum",,
+12,,,,,3. Tellus vestibulum rutrum,,
+13,Add document footer with page numbers and author,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+14,Add document header with document title,Automated,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+15,Change document orientation from portrait to landscape mode,Usability,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+16,Compare print preview of printer driver with actual output,Usability,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+17,Verify space and indentation calculations of inline tables,Performance,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help
+18,Add watermark to document and verify print output,Usability,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+19,Verify Mail Merge functionality with test database mmdb1,Regression,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+20,Test full screen reading on minimal resolution system,Usability,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+21,Verify Arrange All Windows functionality on multi-monitor system,Functionality,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+22,Apply built-in theme to document and verify print output,Functionality,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+22,,,,,"2. Lorem quam quis eget, tellus vestibulum rutrum",,
+23,Verify clipboard history with platform independent graphic file,Usability,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+24,Add numbered list to inline table within an document,Other,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Documentation & Help > Licensing & Terms
+25,Test incremental search with multi-page document,Other,High,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+26,Verify interoperability with system file dialogs,Performance,High,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+27,Test menu keyboard bindings and shortcuts,Performance,Low,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+28,"Verify title, sub title and heading styles",Performance,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+29,Test add-in installation and verify menu appearance,Functionality,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+30,Add footnotes to document and verify footnote numbering,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+30,,,,,"2. Lorem quam quis eget, tellus vestibulum rutrum",,
+30,,,,,3. Tellus vestibulum rutrum,,
+31,Add and verify Tables of Contents with multi-page document,Usability,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+32,Change page color and verify print output,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+33,Export enclosed test document to PDF and verify rendering,Performance,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+34,Change document margins and test interoperability with PDF export,Usability,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+35,Change text alignment in an inline table,Functionality,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization
+36,Verify line spacing on multi-page document,Other,Normal,Quisque pellentesque mauris ut nulla convallis placerat. Vivamus vitae massa eget urna elementum porta.,"1. Etiam massa dolor, ornare sit amet, lacinia nec, bibendum ut, magna.
+","Massa sodales eget lorem dolor, lorem quam quis eget, tellus vestibulum rutrum",Customization

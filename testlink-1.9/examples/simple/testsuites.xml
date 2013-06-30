@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]> 
+</details><testsuite name="Prerequisites" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="16" name="Test menu keyboard bindings and shortcuts">
+	<node_order><![CDATA[0]]></node_order>
+	<externalid><![CDATA[3]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[Suspendisse orci nisi]]></summary>
+	<preconditions><![CDATA[<p>Suspendisse orci nisi, <strong>imperdiet</strong> a, sollicitudin sit amet, eleifend sed, metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac nunc.</p>
+<p>Quisque pellentesque mauris ut nulla convallis placerat. <em>Vivamus</em> vitae massa eget urna elementum porta.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Donec placerat, dui vitae</p>]]></actions>
+	<expectedresults><![CDATA[Lorem ipsum dolor sit]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Ut auctor mi erat ac dolor.</p>]]></actions>
+	<expectedresults><![CDATA[Lorem ipsum dolor sit]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="11" name="Verify clipboard history with platform independent graphic file">
+	<node_order><![CDATA[1]]></node_order>
+	<externalid><![CDATA[2]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Suspendisse orci nisi, imperdiet a, sollicitudin sit amet, eleifend sed,  metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac  nunc.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, <em>lorem quam quis eget</em>, tellus vestibulum rutrum.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, <em>lorem quam quis eget</em>, tellus vestibulum rutrum.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="21" name="Change page color and verify print output ">
+	<node_order><![CDATA[2]]></node_order>
+	<externalid><![CDATA[4]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Suspendisse orci nisi, imperdiet a, sollicitudin sit amet, eleifend sed,  metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac  nunc.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, <em>lorem quam quis eget</em>, tellus vestibulum rutrum.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Aenean quis nulla eu dui luctus lobortis. Praesent bibendum, lacus nec mollis eleifend, magna nibh mattis nibh.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Massa sodales eget lorem dolor, <em>lorem quam quis eget</em>, tellus vestibulum rutrum.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+<testsuite name="Licensing &amp; Terms" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="25" name="Add new review data point (including note)">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[5]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Fusce</strong> faucibus, mauris sit amet rutrum bibendum, dui odio tincidunt nibh, sed semper magna turpis eget magna.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="27" name="Add document footer with page numbers and author">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[6]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>
+<ul>
+    <li>Donec placerat, dui vitae</li>
+    <li>Ut auctor mi erat ac dolor.</li>
+    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+</ul>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Donec placerat, dui vitae</p>]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Ut auctor mi erat ac dolor.</p>]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite></testsuite><testsuite name="Customization" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="32" name="Verify CSV import with enclosed test data files">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[7]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Suspendisse orci nisi, imperdiet a, sollicitudin sit amet, eleifend sed,  metus. Nunc placerat odio sit amet turpis. Maecenas cursus ante ac  nunc.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>In vulputate libero at <a href="http://www.example.com/">http://www.example.com/.</a></p>]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="35" name="Format table with built-in style">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[8]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec placerat, dui vitae facilisis tempor.</p>]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Donec placerat, dui vitae</p>]]></actions>
+	<expectedresults><![CDATA[<p>Donec placerat, dui vitae</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Ut auctor mi erat ac dolor.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Ut auctor mi erat ac dolor.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>]]></actions>
+	<expectedresults><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite></testsuite>
