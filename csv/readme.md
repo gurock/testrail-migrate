@@ -29,7 +29,7 @@ You can use the script as follows:
     [delimiter] Allows you to override the default comma delimiter.
 
 You can learn more about this migration script on its project website:
-http://docs.gurock.com/testrail-integration/migration-csv
+http://docs.gurock.com/testrail-admin/migration-csv
 
 Included third-party code:
 --------------------------

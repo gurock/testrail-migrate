@@ -5,15 +5,14 @@
  * This is a simple PHP command line script for migrating CSV/Excel
  * files to TestRail's import/export files.
  *
- * Copyright 2010 Gurock Software GmbH. All rights reserved.
- * http://www.gurock.com - contact@gurock.com
+ * Copyright Gurock Software GmbH. All rights reserved.
+ * http://www.gurock.com/
  *
  **********************************************************************
  *
  * Learn more about this migration script on its project website:
  *
- * http://code.gurock.com/p/testrail-migrate/
- *
+ * http://docs.gurock.com/testrail-admin/migration-csv
  */
 
 error_reporting(E_ALL);
