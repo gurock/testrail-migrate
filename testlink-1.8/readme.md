@@ -30,7 +30,7 @@ The script tries to convert these fields into TestRail's text format
 (markdown) where possible.
 
 You can learn more about this migration script on its project website:
-http://code.gurock.com/p/testrail-migrate/
+http://docs.gurock.com/testrail-integration/migration-testlink
 
 Included third-party code:
 --------------------------
