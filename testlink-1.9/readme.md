@@ -14,14 +14,14 @@ Usage
 
 You can use the script as follows:
 
-> php testlink2testrail.php <input-file> <output-file>
+    > php testlink2testrail.php <input-file> <output-file>
 
-<input-file> should be the filename of a valid TestLink XML test
-specification export file you want to convert (created with a
-recent version of TestLink).
+    <input-file> should be the filename of a valid TestLink XML test
+    specification export file you want to convert (created with a
+    recent version of TestLink).
 
-<output-file> specifies the filename of the resulting TestRail
-import/export file.
+    <output-file> specifies the filename of the resulting TestRail
+    import/export file.
 
 The script converts a test suite tree of a TestLink test specification
 into a single test suite of TestRail. The tree structure is represented
