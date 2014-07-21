@@ -41,4 +41,5 @@ http://milianw.de/projects/markdownify/index.php
 
 -- 
 Copyright Gurock Software GmbH. All rights reserved.
+
 http://www.gurock.com/

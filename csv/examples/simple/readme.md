@@ -6,7 +6,3 @@ Call the script like this:
 
 You can learn more about this script on our website:
 http://docs.gurock.com/testrail-admin/migration-csv
-
--- 
-Copyright Gurock Software GmbH. All rights reserved.
-http://www.gurock.com/

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Copyright 2010 Gurock Software GmbH. All rights reserved.
+ * Copyright Gurock Software GmbH. All rights reserved.
  * http://www.gurock.com - contact@gurock.com
  */
 
